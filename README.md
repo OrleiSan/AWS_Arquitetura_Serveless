@@ -2,4 +2,4 @@
 
 
 
-<img align="center" alt="html5" src="https://github.com/OrleiSan/AWS_Arquitetura_Serveless/blob/main/serveless.JPG?raw=true">
+<img align="center" alt="html5" src="https://github.com/OrleiSan/AWS_Arquitetura_Serveless/blob/main/Arquitetura_Serveless.drawio.png?raw=true">
